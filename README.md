@@ -1,5 +1,5 @@
 # liveStream
-MediaStreams API
+MediaStreams API | Vanilla JS
 
 
 The MediaStream interface represents a stream of media content. 
